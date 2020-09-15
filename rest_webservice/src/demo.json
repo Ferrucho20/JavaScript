@@ -1,0 +1,15 @@
+[
+    {  
+        "id": "1",
+        "title": "the revenant",
+        "director": "Alejandro Gonzalez",
+        "año": "2017",
+        "rating": "9"
+    },
+    {   "id": "2",
+        "title": "inglorious bastards",
+        "director": "Quentin Tarantino",
+        "año": "2000",
+        "rating": "2005"
+    }
+]
